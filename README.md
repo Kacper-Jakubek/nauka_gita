@@ -4,5 +4,7 @@
 
 <sub> some todos : </sub>
 
-- [ ] first todo
-- [ ] second todo
+- [x] first todo
+- [x] second todo
+
+*tasks done*
